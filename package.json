@@ -158,6 +158,9 @@
     "wrangler": "^3.91.0",
     "zod": "^3.24.1"
   },
+  "browser": {
+    "assert": false,
+  },
   "resolutions": {
     "@typescript-eslint/utils": "^8.0.0-alpha.30"
   },
