@@ -159,7 +159,7 @@
     "zod": "^3.24.1"
   },
   "browser": {
-    "assert": false,
+    "assert": false
   },
   "resolutions": {
     "@typescript-eslint/utils": "^8.0.0-alpha.30"
